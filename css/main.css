@@ -330,9 +330,10 @@ input.input100 {
 
 /*---------------------------------------------*/
 .how-countdown {
-  background-color: rgba(87, 82, 82, 0.541);
+  background-color: rgba(87, 82, 82, 0.658);
   border-radius: 10px;
   margin: 0px 18px 25px 18px;
+  margin-top: 8%;
 }
 
 /*---------------------------------------------*/
