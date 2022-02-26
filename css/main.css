@@ -263,7 +263,7 @@ input.input100 {
 [ Width ]*/
 .wsize1 {
   max-width: 100%;
-  width: 880px;
+  width: 500px;
 }
 
 
@@ -330,7 +330,7 @@ input.input100 {
 
 /*---------------------------------------------*/
 .how-countdown {
-  background-color: #333333;
+  background-color: rgba(87, 82, 82, 0.541);
   border-radius: 10px;
   margin: 0px 18px 25px 18px;
 }

@@ -2,7 +2,7 @@
 <p align="center">
    Adams Sculptures <br>
    Adams Skulpturer <br>
-  <img src="ADAMS_SKULPTURER.png" width="450" title="hover text">
+  <img src="images/ADAMS_SKULPTURER.png" width="450" title="hover text">
 </p>
 
 
